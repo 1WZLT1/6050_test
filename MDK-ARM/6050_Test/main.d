@@ -32,4 +32,4 @@
 6050_test\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
 6050_test\main.o: ../Core/Inc/i2c.h
 6050_test\main.o: ../Core/Inc/gpio.h
-6050_test\main.o: ..\Hardware\mpu6050.h
+6050_test\main.o: ../Hardware/mpu6050.h

@@ -24,6 +24,7 @@
 "6050_test\stm32f4xx_hal_tim_ex.o"
 "6050_test\system_stm32f4xx.o"
 "6050_test\mpu6050.o"
+"6050_test\moto_control.o"
 --strict --scatter "6050_Test\6050_Test.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers
