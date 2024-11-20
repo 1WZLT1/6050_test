@@ -100,6 +100,7 @@ int main(void)
 
     /* USER CODE BEGIN 3 */
 		MPU6050_Read_All(&hi2c2, &MPU6050);
+		
 	  HAL_Delay (100);
   }
   /* USER CODE END 3 */
